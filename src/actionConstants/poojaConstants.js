@@ -1,0 +1,4 @@
+export const poojaConstants = {
+    POOJA_LIST_RESPONSE: 'POOJA_LIST_RESPONSE',
+    POOJA_LOADER_RESPONSE: 'POOJA_LOADER_RESPONSE',
+};

@@ -1,0 +1,4 @@
+export const eventConstants = {
+    EVENT_LIST_RESPONSE: 'EVENT_LIST_RESPONSE',
+    EVENT_LOADER_RESPONSE: 'EVENT_LOADER_RESPONSE',
+};
